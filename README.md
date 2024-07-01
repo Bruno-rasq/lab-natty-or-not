@@ -18,19 +18,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
 
-# Título do Projeto Extremamente Aesthetic ;)
+# De Dev para Dev
 
 ## 📒 Descrição
-breve descrição 
+um breve conselho de um Dev experiente para um iniciante, misturado com um conselho denuma IA.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Fornece ao Chat um conselho que ganhei de um Desenvolvedor mais experiente que eu, e pedi ao chat que
+contribuisse com o conselho, será que você consegue identificar qual parte foi feita por IA?
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+"Como desenvolvedor iniciante, quero te dar alguns conselhos que me ajudaram muito. Primeiro, nunca pare de aprender. A tecnologia está em constante evolução, então é essencial estar sempre atualizado com as novas ferramentas e linguagens.Em segundo lugar, não tenha medo de errar. Cada erro é uma oportunidade de aprendizado. Revise seu código, entenda onde errou e melhore a cada dia. Além disso, aprenda a trabalhar em equipe. A comunicação é chave para o sucesso em qualquer projeto.Por fim, invista em projetos pessoais. Eles não só mostram seu talento e dedicação, mas também te dão a liberdade de experimentar e inovar. Boa sorte!"
 
 
 
